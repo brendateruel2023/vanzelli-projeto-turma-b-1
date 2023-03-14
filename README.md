@@ -11,7 +11,7 @@ Rua: Ana Candida de Souza Gemeinder, 66
 
 Experiencia:
 
-Operador de Telemarketing
+Operador de Telemarketing;
 
 Estudante
 
